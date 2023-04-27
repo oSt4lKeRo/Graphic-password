@@ -94,8 +94,8 @@ public class HelloApplication extends Application {
 
 		BorderPane borderPane = new BorderPane();
 
-		Image whiteBox = new Image("C:\\material\\lab3\\WhiteBox.png");
-		Image greenBox = new Image("C:\\material\\lab3\\GreenBox.png");
+		Image greenBox = new Image("C:\\Users\\pc\\IdeaProjects\\DI_lab7\\src\\main\\resources\\Image\\GreenBox.png");
+		Image whiteBox = new Image("C:\\Users\\pc\\IdeaProjects\\DI_lab7\\src\\main\\resources\\Image\\WhiteBox.png");
 
 		ArrayList<Integer> arrayList = new ArrayList<>();
 		Elem[][] elemMas = new Elem[10][10];
